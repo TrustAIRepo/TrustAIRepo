@@ -1,6 +1,6 @@
 # TrustAIRepo
 
-!TestFinal11
+!Logo
 
 ## Description
 This repository contains additional resources related to the article "An improved RAG architecture for trustworthiness: Integrating RDA and LLM-based engines"
