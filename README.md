@@ -1,6 +1,6 @@
 # Welcome to "An improved RAG architecture for trustworthiness: Integrating RDA and LLM-based engines" 👋
 
-https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/images/graphical_abstract_trustRAG.pdf
+!(https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/images/Banner.PNG)
 
 ## 🚀 Introduction
 Welcome to the repository associated with our scientific article titled **"An improved RAG architecture for trustworthiness: Integrating RDA and LLM-based engines"**. This repository contains all the relevant data, code, and resources related to our research.
