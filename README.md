@@ -11,26 +11,26 @@ Additionally, this repository contains supplementary information related to the 
 To evaluate the applicability of our proposed architecture improvement, we developed a dataset consisting of fictional documents detailing the flora and fauna of Europa, one of Jupiter's moons. This dataset was specifically crafted to ensure that the LLM had no prior knowledge of the information contained within, ensuring that its responses are based solely on the provided documents. Additionally, we included elements related to trustworthiness within these documents to thoroughly evaluate the system's ability to verify trustworthiness.
 
 You can access the documents below:
-- [Document 1: Flora on the Surface of Europa An In-Depth Analysis] (https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/01.Flora%20on%20the%20Surface%20of%20Europa%20An%20In-Depth%20Analysis.txt)
+- [Document 1](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/01.Flora%20on%20the%20Surface%20of%20Europa%20An%20In-Depth%20Analysis.txt): Flora on the Surface of Europa An In-Depth Analysis] 
 - [Document 2](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/02.Fauna%20in%20the%20Subsurface%20Oceans%20of%20Europa%20A%20Hypothetical%20Exploration.txt): Fauna in the Subsurface Oceans of Europa A Hypothetical Exploration
-- Document 3: Adaptations of Plants on Europa Surviving Extreme Conditions
-- Document 4: Investigating the Possibility of Microbial Life in the Oceans of Europa
-- Document 5: Hypothetical Ecosystems in the Ice Cracks of Europa
-- Document 6: Exploring the Potential Biodiversity in the Subsurface Seas of Europa
-- Document 7: Studying the Interactions Between Possible Species of Flora and Fauna on Europa
-- Document 8: Analyzing the Impact of Jupiter's Radiation on Life on Europa
-- Document 9: Describing the Possible Food Chains in the Oceans of Europa
-- Document 10: Investigating Photosynthesis in Low-Light Conditions on Europa
-- Document 11: Exploring the Possibility of Extremophile Life on Europa
-- Document 12: Describing the Nutrient Cycles in the Ecosystems of Europa
-- Document 13: Analyzing the Evolution of Life in a Closed Environment Like Europa
-- Document 14: Studying the Water Chemistry in the Oceans of Europa and Its Impact on Life
-- Document 15: Exploring the Possibility of Methane-Based Life on Europa
-- Document 16: Describing the Potential Habitats in the Depths of the Oceans of Europa
-- Document 17: Investigating the Possibility of Life in the Hydrothermal Vents of Europa
-- Document 18: Analyzing the Genetic Diversity of Possible Organisms on Europa
-- Document 19: Exploring the Possibility of Symbiosis Between Species on Europa
-- Docuemnt 20: Describing the Research Methods to Detect Life on Europa
+- [Document 3](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/03.Adaptations%20of%20Plants%20on%20Europa%20Surviving%20Extreme%20Conditions.txt): Adaptations of Plants on Europa Surviving Extreme Conditions
+- [Document 4](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/04.Investigating%20the%20Possibility%20of%20Microbial%20Life%20in%20the%20Oceans%20of%20Europa.txt): Investigating the Possibility of Microbial Life in the Oceans of Europa
+- [Document 5](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/05.Hypothetical%20Ecosystems%20in%20the%20Ice%20Cracks%20of%20Europa.txt): Hypothetical Ecosystems in the Ice Cracks of Europa
+- [Document 6](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/06.Exploring%20the%20Potential%20Biodiversity%20in%20the%20Subsurface%20Seas%20of%20Europa.txt): Exploring the Potential Biodiversity in the Subsurface Seas of Europa
+- [Document 7](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/07.Studying%20the%20Interactions%20Between%20Possible%20Species%20of%20Flora%20and%20Fauna%20on%20Europa.txt): Studying the Interactions Between Possible Species of Flora and Fauna on Europa
+- [Document 8](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/08.Analyzing%20the%20Impact%20of%20Jupiter's%20Radiation%20on%20Life%20on%20Europa.txt): Analyzing the Impact of Jupiter's Radiation on Life on Europa
+- [Document 9](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/09.Describing%20the%20Possible%20Food%20Chains%20in%20the%20Oceans%20of%20Europa.txt): Describing the Possible Food Chains in the Oceans of Europa
+- [Document 10](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/10.Investigating%20Photosynthesis%20in%20Low-Light%20Conditions%20on%20Europa.txt): Investigating Photosynthesis in Low-Light Conditions on Europa
+- [Document 11](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/11.Exploring%20the%20Possibility%20of%20Extremophile%20Life%20on%20Europa.txt): Exploring the Possibility of Extremophile Life on Europa
+- [Document 12](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/12-Describing%20the%20Nutrient%20Cycles%20in%20the%20Ecosystems%20of%20Europa.txt): Describing the Nutrient Cycles in the Ecosystems of Europa
+- [Document 13](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/13.Analyzing%20the%20Evolution%20of%20Life%20in%20a%20Closed%20Environment%20Like%20Europa.txt): Analyzing the Evolution of Life in a Closed Environment Like Europa
+- [Document 14](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/14.Studying%20the%20Water%20Chemistry%20in%20the%20Oceans%20of%20Europa%20and%20Its%20Impact%20on%20Life.txt): Studying the Water Chemistry in the Oceans of Europa and Its Impact on Life
+- [Document 15](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/15.Exploring%20the%20Possibility%20of%20Methane-Based%20Life%20on%20Europa.txt): Exploring the Possibility of Methane-Based Life on Europa
+- [Document 16](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/16.Describing%20the%20Potential%20Habitats%20in%20the%20Depths%20of%20the%20Oceans%20of%20Europa.txt): Describing the Potential Habitats in the Depths of the Oceans of Europa
+- [Document 17](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/17.Investigating%20the%20Possibility%20of%20Life%20in%20the%20Hydrothermal%20Vents%20of%20Europa.txt): Investigating the Possibility of Life in the Hydrothermal Vents of Europa
+- [Document 18](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/18.%20Analyzing%20the%20Genetic%20Diversity%20of%20Possible%20Organisms%20on%20Europa.txt): Analyzing the Genetic Diversity of Possible Organisms on Europa
+- [Document 19](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/19-Exploring%20the%20Possibility%20of%20Symbiosis%20Between%20Species%20on%20Europa.txt): Exploring the Possibility of Symbiosis Between Species on Europa
+- [Docuemnt 20](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/20-Describing%20the%20Research%20Methods%20to%20Detect%20Life%20on%20Europa.txt): Describing the Research Methods to Detect Life on Europa
   
 
 ## 🔍 Evidence and Results
