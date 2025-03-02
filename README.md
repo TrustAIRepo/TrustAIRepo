@@ -1,4 +1,4 @@
-# Welcome to [Title of Your Scientific Article] 👋
+# Welcome to "An improved RAG architecture for trustworthiness: Integrating RDA and LLM-based engines" 👋
 
 !Banner
 
