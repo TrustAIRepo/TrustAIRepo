@@ -3,7 +3,7 @@
 !Banner
 
 ## 🚀 Introduction
-Welcome to the presentation page for our scientific article titled **"[Title of Your Article]"**. This research focuses on [brief description of the research topic].
+Welcome to the repository associated with our scientific article titled **"An improved RAG architecture for trustworthiness: Integrating RDA and LLM-based engines"**. This repository contains all the relevant data, code, and resources related to our research.
 
 ## 📊 Test Data
 We have conducted extensive tests to validate our findings. You can access the test data below:
