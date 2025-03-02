@@ -36,11 +36,26 @@ You can access the documents below:
 ## 🔍 Evidence and Results
 Our research is backed by solid evidence and results. Here are some key findings:
 - **Finding 1**: Description of finding 1.
-- **Finding 2**: Description of finding 2.
+  ![Banner](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/images/Banner.PNG)
 
-You can view the detailed evidence and results in the following documents:
-- Evidence Document 1
-- Evidence Document 2
+- **Finding 2**: Description of finding 2.
+- ![Banner](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/images/Banner.PNG)
+
+  
+
+You can view a sample of evidences in the following links:
+ [Evidence 1]() | [Evidence 2]() | [Evidence 3]() | [Evidence 4]() | [Evidence 5]() | [Evidence 6]() | [Evidence 7]() | [Evidence 8]() | [Evidence 9]() | [Evidence 10]() | [Evidence 11]() |
+
+
+
+
+
+
+
+
+
+
+
 
 ## 💻 Code
 The code used in our research is available for review and replication. You can find the code repository here:
@@ -51,20 +66,11 @@ Below are some images that help explain our research and findings:
 !Description of Image 1
 !Description of Image 2
 
-## 📈 GitHub Stats
-![Profile Views](https://github-readme-stats.vercel.app/api?username=TrustAIRepo)
-
 ## 📫 Contact
 If you have any questions or would like to discuss our research further, please feel free to contact us:
 - [LinkedIn](https://www.linkedin.com/in/carlosmariobragabigdata/)
 - Orcid : [0009-0009-2373-0990](https://orcid.org/0009-0009-2373-0990)
-- Email: CarlosMario.Braga1@alu.uclm.es
 - [Email](CarlosMario.Braga1@alu.uclm.es)
-
-## 📚 Recent Publications
-Here are some of our recent publications:
-- Publication 1
-- Publication 2
 
 ## 💬 Inspirational Quote
 > "To live effectively is to live with adequate information." (Norbert Wiener)
