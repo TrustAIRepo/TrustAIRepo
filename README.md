@@ -69,5 +69,7 @@ Here are some of our recent publications:
 > "Your favorite inspirational quote."
 
 ## 🎉 Acknowledgements
+This publication would not have been possible without the support of the following projects: Di4SPDS (PCI2023145980-2), funded by MCIN/AEI/10.13039/501100011033 and by the European Union (Chist-Era Program), KOSMOS-UCLM (PID2024-155363OB-C44) funded by MCIN/AEI/10.13039/501100011033, ALBA (TED2021-130355B-C31), funded by MICIU/AEI-/10.13039/501100011033 and the European Union NextGeneration EU/ PRTR, and MESIAS (2022-GRIN-34202) funded by FEDER
+
 Thank you for visiting our presentation page. We appreciate your interest in our research!
 
