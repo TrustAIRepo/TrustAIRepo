@@ -80,7 +80,7 @@ You can view a sample of different evidences in the following links:
 
 ## 💻 Code
 The code used in our research is available for review and replication. The code was developed specifically to test the Trustworthy RAG, without considering some necessary aspects for a real and production-ready system in certain steps of the process to facilitate the objective. You can find the code repository here:
-- GitHub Repository
+- [GitHub Repository]()
 
 ## 📷 Explanatory Images
 Below are some images that help explain our research and findings:
