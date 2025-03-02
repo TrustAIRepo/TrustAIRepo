@@ -1,4 +1,4 @@
-# Welcome to "An improved RAG architecture for trustworthiness: Integrating RDA and LLM-based engines" 👋
+# 👋 Welcome to: 
 
 ![Banner](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/images/Banner.PNG)
 
