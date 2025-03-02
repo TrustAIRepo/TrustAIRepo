@@ -52,7 +52,7 @@ Below are some images that help explain our research and findings:
 !Description of Image 2
 
 ## 📈 GitHub Stats
-[!Profile Views](https://github-readme-stats.vercel.app/api?username=TrustAIRepo)
+!Profile Views](https://github-readme-stats.vercel.app/api?username=TrustAIRepo)
 
 ## 📫 Contact
 If you have any questions or would like to discuss our research further, please feel free to contact us:
