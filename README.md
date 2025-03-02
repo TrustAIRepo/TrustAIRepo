@@ -56,9 +56,10 @@ Below are some images that help explain our research and findings:
 
 ## 📫 Contact
 If you have any questions or would like to discuss our research further, please feel free to contact us:
-- LinkedIn
-- Twitter
-- Email
+- [LinkedIn](https://www.linkedin.com/in/carlosmariobragabigdata/)
+- Orcid : [0009-0009-2373-0990](https://orcid.org/0009-0009-2373-0990)
+- Email: CarlosMario.Braga1@alu.uclm.es
+- [Email](CarlosMario.Braga1@alu.uclm.es)
 
 ## 📚 Recent Publications
 Here are some of our recent publications:
@@ -66,7 +67,7 @@ Here are some of our recent publications:
 - Publication 2
 
 ## 💬 Inspirational Quote
-> "Your favorite inspirational quote."
+> "To live effectively is to live with adequate information." (Norbert Wiener)
 
 ## 🎉 Acknowledgements
 This publication would not have been possible without the support of the following projects: Di4SPDS (PCI2023145980-2), funded by MCIN/AEI/10.13039/501100011033 and by the European Union (Chist-Era Program), KOSMOS-UCLM (PID2024-155363OB-C44) funded by MCIN/AEI/10.13039/501100011033, ALBA (TED2021-130355B-C31), funded by MICIU/AEI-/10.13039/501100011033 and the European Union NextGeneration EU/ PRTR, and MESIAS (2022-GRIN-34202) funded by FEDER
