@@ -11,8 +11,8 @@ Additionally, this repository contains supplementary information related to the 
 To evaluate the applicability of our proposed architecture improvement, we developed a dataset consisting of fictional documents detailing the flora and fauna of Europa, one of Jupiter's moons. This dataset was specifically crafted to ensure that the LLM had no prior knowledge of the information contained within, ensuring that its responses are based solely on the provided documents. Additionally, we included elements related to trustworthiness within these documents to thoroughly evaluate the system's ability to verify trustworthiness.
 
 You can access the documents below:
-- Document 1: Flora on the Surface of Europa An In-Depth Analysis (https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/01.Flora%20on%20the%20Surface%20of%20Europa%20An%20In-Depth%20Analysis.txt)
-- Document 2: Fauna in the Subsurface Oceans of Europa A Hypothetical Exploration
+- [Document 1: Flora on the Surface of Europa An In-Depth Analysis] (https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/01.Flora%20on%20the%20Surface%20of%20Europa%20An%20In-Depth%20Analysis.txt)
+- [Document 2](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/corpus/02.Fauna%20in%20the%20Subsurface%20Oceans%20of%20Europa%20A%20Hypothetical%20Exploration.txt): Fauna in the Subsurface Oceans of Europa A Hypothetical Exploration
 - Document 3: Adaptations of Plants on Europa Surviving Extreme Conditions
 - Document 4: Investigating the Possibility of Microbial Life in the Oceans of Europa
 - Document 5: Hypothetical Ecosystems in the Ice Cracks of Europa
