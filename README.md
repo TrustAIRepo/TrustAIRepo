@@ -71,14 +71,15 @@ Our proposed solution effectively prevented the disclosure of personal informati
 In this test, the dataset included fictional scientific descriptions, one of which incorrectly categorized certain microorganisms as female. Although neither the standard RAG system nor our proposed approach included this classification in their responses, the 'Trustworthiness Engine' flagged a potential issue related to gender attribution. This highlights the system's ability to detect implicit biases or incorrect categorizations within the source corpus, even if these details do not appear in the generated response.
 
 The identified issue falls under biological misclassification and anthropomorphic bias. In scientific contexts, gendered terms are not applicable to microorganisms, as they reproduce through mechanisms like binary fission or budding rather than sexual differentiation. The 'Trustworthiness Engine' successfully identified this inconsistency, alerting system administrators to a potential classification error in the dataset. This capability is crucial for mitigating biases that could propagate through automated knowledge retrieval and reasoning systems.
-- ![Banner](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal1.png)
+
+ ![Banner](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal1.png)
   
 
-You can view a sample of evidences in the following links:
+You can view a sample of different evidences in the following links:
  [Evidence 1](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal1.png) | [Evidence 2](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal2.png) | [Evidence 3](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal3.png) | [Evidence 4](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal4.png) | [Evidence 5](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal5.png) | [Evidence 6](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal6.png) | [Evidence 7](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal7.png) | [Evidence 8](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal8.png) | [Evidence 9](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal9.png) | [Evidence 10](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal10.png) | [Evidence 11](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/evidences/TestFinal11.png) |
 
 ## 💻 Code
-The code used in our research is available for review and replication. You can find the code repository here:
+The code used in our research is available for review and replication. The code was developed specifically to test the Trustworthy RAG, without considering some necessary aspects for a real and production-ready system in certain steps of the process to facilitate the objective. You can find the code repository here:
 - GitHub Repository
 
 ## 📷 Explanatory Images
