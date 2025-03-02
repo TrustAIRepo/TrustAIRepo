@@ -82,11 +82,6 @@ You can view a sample of different evidences in the following links:
 The code used in our research is available for review and replication. The code was developed specifically to test the Trustworthy RAG, without considering some necessary aspects for a real and production-ready system in certain steps of the process to facilitate the objective. You can find the code repository here:
 - [GitHub Repository](https://github.com/TrustAIRepo/TrustAIRepo/tree/main/assets/code)
 
-## 📷 Explanatory Images
-Below are some images that help explain our research and findings:
-!Description of Image 1
-!Description of Image 2
-
 ## 📫 Contact
 If you have any questions or would like to discuss our research further, please feel free to contact us:
 - [LinkedIn](https://www.linkedin.com/in/carlosmariobragabigdata/)
