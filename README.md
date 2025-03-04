@@ -91,6 +91,9 @@ If you have any questions or would like to discuss our research further, please 
 ## 💬 Inspirational Quote
 > "To live effectively is to live with adequate information." (Norbert Wiener)
 
+## 🔗 Research Documentation
+For more details on other research conducted by our rearch group, visit our [GitHub_Repository](https://github.com/GSYAtools)
+  
 ## 🎉 Acknowledgements
 This publication would not have been possible without the support of the following projects: Di4SPDS (PCI2023145980-2), funded by MCIN/AEI/10.13039/501100011033 and by the European Union (Chist-Era Program), KOSMOS-UCLM (PID2024-155363OB-C44) funded by MCIN/AEI/10.13039/501100011033, ALBA (TED2021-130355B-C31), funded by MICIU/AEI-/10.13039/501100011033 and the European Union NextGeneration EU/ PRTR, and MESIAS (2022-GRIN-34202) funded by FEDER
 
