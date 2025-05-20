@@ -1,25 +1,44 @@
-# 👋 Welcome to: 
+# 🧠 TrustAIRepo
 
-![Banner](https://github.com/TrustAIRepo/TrustAIRepo/blob/main/assets/images/Banner.PNG)
+> Open-science repository for frameworks, taxonomies, and metrics that support the development of **Trustworthy Artificial Intelligence** systems.
 
-## 🚀 Introduction
-This repository is dedicated to the open science publication and dissemination of **Trustworthy AI research**, with a focus on *sociotechnical frameworks* that promote explainability, accountability, and compliance in AI systems.
+---
+
+## 🚀 About the Project
+
+**TrustAIRepo** is a scientific initiative to structure, validate, and disseminate tools and methodologies that bring *trustworthiness* into the real-world design, development, and governance of AI systems.
+
+It focuses on **sociotechnical frameworks** that enable the operationalization of high-level principles such as fairness, explicability, robustness, and lawfulness—across architectures, datasets, evaluation metrics, and system behavior.
+
+The repository is aligned with the goals of regulatory frameworks like the **EU AI Act**, and emerging **AI auditing practices**.
 
 > The first consolidated contribution of this repository is a **sociotechnical taxonomy of Trustworthy AI**, published in *Expert Systems with Applications* (Elsevier, 2025).
 
+---
 ## 🧠 Trustworthy AI Taxonomy
 
-We propose a **seven-dimensional taxonomy** that structures Trustworthy AI into the following core areas:
+We propose a **sociotechnical taxonomy** of Trustworthy AI that systematically organizes the key dimensions involved in the ethical, legal, and technical governance of intelligent systems. This taxonomy is designed as a **practical vehicle to operationalize high-level AI principles**, allowing practitioners to interpret abstract values in actionable and measurable terms.
 
-- **Lawfulness**
-- **Beneficence**
-- **Non-maleficence**
-- **Autonomy**
-- **Justice**
-- **Explicability**
-- **Technology**
+The taxonomy is structured around **seven core principles**:
 
-This taxonomy enables researchers and practitioners to reason systematically about *AI system properties*, *regulatory requirements*, and *design trade-offs*.
+- **Lawfulness**: alignment with legal norms, rights, and regulatory requirements.
+- **Beneficence**: promotion of individual and collective well-being.
+- **Non-maleficence**: minimization of harm and unintended consequences.
+- **Autonomy**: respect for human agency and meaningful control.
+- **Justice**: fairness, inclusion, and mitigation of bias or discrimination.
+- **Explicability**: transparency, interpretability, and communication of system behavior.
+- **Technology**: reliability, robustness, resilience, and security of the underlying systems.
+
+This taxonomy acts as a **translation layer** between abstract normative principles (such as those defined by the EU AI Act, UNESCO, OECD, or the AI4People framework) and the concrete components of AI system development. It enables:
+
+- Systematic **assessment of trustworthiness gaps** in system design.
+- Support for **compliance-by-design** in regulated domains.
+- Structuring **documentation and audits** for algorithmic accountability.
+- Guiding **evaluation criteria** for fairness, safety, and robustness.
+- Anchoring multi-stakeholder discussions on AI governance and ethics.
+
+The taxonomy has been applied or is being integrated into several research and development areas, such as,  **Design of trustworthy Retrieval-Augmented Generation (RAG)** architectures with explainability and verifiability layers or  **Fairness evaluation frameworks** in unsupervised security systems using extended independence/separation/sufficiency metrics. It is also intended to serve as a foundational layer in the development of **trust profiles**, **regulatory reporting systems**, and **trust certification criteria** for AI deployments in sensitive sectors such as finance, health, or public administration.
+
 
 📄 **Read the full article in *Expert Systems with Applications* (Elsevier, 2025):**  
 👉 [https://doi.org/10.1016/j.eswa.2025.128034](https://doi.org/10.1016/j.eswa.2025.128034)
@@ -67,7 +86,10 @@ If you have any questions or would like to discuss our research further, please 
 > "To live effectively is to live with adequate information." (Norbert Wiener)
 
 ## 🎉 Acknowledgements
-This publication would not have been possible without the support of the following projects: Di4SPDS (PCI2023145980-2), funded by MCIN/AEI/10.13039/501100011033 and by the European Union (Chist-Era Program), KOSMOS-UCLM (PID2024-155363OB-C44) funded by MCIN/AEI/10.13039/501100011033, ALBA (TED2021-130355B-C31), funded by MICIU/AEI-/10.13039/501100011033 and the European Union NextGeneration EU/ PRTR, and MESIAS (2022-GRIN-34202) funded by FEDER
+The initial development of this research was supported by several publicly funded research projects in Spain and the European Union, which are acknowledged in the original publication.
+
+We thank all collaborators and institutions that contributed to the academic and technical foundations of this work.
+
 
 Thank you for visiting our presentation page. We appreciate your interest in our research!
 
